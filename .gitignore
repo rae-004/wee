@@ -1,0 +1,5 @@
+# Environment files
+.env
+.env.*
+!.env.example  # (optional) Keeps example env files
+node_modules/
